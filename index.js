@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Giocando a Krakenmc"];
+const statusMessages = ["WhiteMC"];
 
 
 let currentIndex = 0;
